@@ -28,8 +28,8 @@ Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; C
  
 ### Education Background.
 
-- Master (School of Mechatronic Engineering)---Jiangsu Normal University
-- Bachelor (Mechanical and Electrical Engineering)---Jiangsu Normal University Kewen College
+- Master (School of Mechatronic Engineering)  Jiangsu Normal University
+- Bachelor (Mechanical and Electrical Engineering)  Jiangsu Normal University Kewen College
 
 ### Contact Me.
 
