@@ -6,20 +6,7 @@
 
 ### Programming Language
 *MatLab; C/C++; Julia; Python; Shell; SQL;*
- <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-7524-2587"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-7524-2587
-  </a>
-  
+ 
 ### Current Status.
  
 - 🔭 I’m currently working in China.
@@ -35,6 +22,20 @@
 
 ### Contact Me.
 
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-7524-2587"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-7524-2587
+  </a>
+  
 - QQ:497566149
 - Wechat:18260712928
 - ZhiHu:LuciferWang https://www.zhihu.com/people/devilw-94-10-18
