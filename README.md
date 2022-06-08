@@ -16,7 +16,7 @@
   
 ### Current Status.
  
-- 🔭 I’m currently working on CHAHO
+- 🔭 I’m currently working in China.
 - 🌱 I’m currently learning MATLAB,C/C++,Julia and FPGA.
 - 👯 I’m looking to collaborate on Anywhere.
 - 💬 Ask me about Anything I Know.
