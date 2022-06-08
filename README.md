@@ -2,7 +2,7 @@
 
 ### Research interests.
 
-*Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; Computational Intelligence; Image Processing; Feature Extraction; Advanced Machine Learning; High Performance Computing; Signal Processing; Software Design; Pattern Recognition; Feature Selection*
+*Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; Computational Intelligence; Image Processing; Advanced Machine Learning; High Performance Computing; Signal Processing; Software Design; Pattern Recognition;*
 
 ### Programming Language
 *MatLab; C/C++; Julia; Python; Shell; SQL;*
