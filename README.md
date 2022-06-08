@@ -39,7 +39,7 @@ Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; C
 - Bilibili:HsinXWang https://space.bilibili.com/13227261
 - GitHub:VenomWang https://github.com/HsinWang94
 - Google:Xin Wang devilw941018@gmail.com    
-- Google Scholar:Xin Wang https://scholar.google.com/citations?user=JUVOqEUAAAAJ&hl=zh-CN 
+- Google Scholar:Xin Wang https://scholar.google.com/citations?user=JUVOqEUAAAAJ
 ### Paper List.
 
 1. *Wang Xin*. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
