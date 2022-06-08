@@ -35,7 +35,7 @@ Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; C
 - GitHub:VenomWang https://github.com/HsinWang94
 - Google:Xin Wang devilw941018@gmail.com    
   
-### Paper List
+### Paper List.
 
 1. *Wang Xin*. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
 2. *X.Wang*, W.Y.Liu, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
