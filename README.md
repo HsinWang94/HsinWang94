@@ -1,5 +1,8 @@
 ## Hello,Welcome to My GithubPage!!!
 
+### Research interests.
+
+Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; Computational Intelligence; Classification; Image Processing; Feature Extraction; Advanced Machine Learning; High Performance Computing; Signal Processing; C++; C; MATLAB; Software Design; Pattern Recognition; Feature Selection
  <a
     id="cy-effective-orcid-url"
     class="underline"
