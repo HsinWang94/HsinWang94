@@ -26,6 +26,11 @@ Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; C
 - 💬 Ask me about Anything I Know.
 - 📫 How to reach me: Email: wangxin94xz@outlook 
  
+### Education Background.
+
+- Master (School of Mechatronic Engineering)---Jiangsu Normal University
+- Bachelor (Mechanical and Electrical Engineering)---Jiangsu Normal University Kewen College
+
 ### Contact Me.
 
 - QQ:497566149
