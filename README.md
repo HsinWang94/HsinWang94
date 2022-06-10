@@ -53,6 +53,9 @@
 6. He Ren, Wenyi Liu, Mengchen Shan, *Xin Wang* and Zhengfeng Wang. A novel wind turbine health condition monitoring method based on composite variational mode entropy and weighted distribution adaptation. Renewable Energy. 2021.
 7. Yan Zhang, Wenyi Liu, *Xin Wang* and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
 8. Yan Zhang, Wenyi Liu, *Xin Wang* and Heng Gu. A novel wind turbine fault diagnosis method based on compressed sensing and DTL-CNN. Renewable Energy. 2022.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsinWang94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinWang94&show_icons=true&theme=tokyonight)
 
@@ -60,5 +63,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HsinWang94&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsinWang94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
