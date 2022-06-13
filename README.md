@@ -65,7 +65,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HsinWang94&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/HsinWang94/count.svg" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/{HsinWang94}/count.svg)
