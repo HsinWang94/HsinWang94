@@ -55,14 +55,25 @@
 7. Yan Zhang, Wenyi Liu, *Xin Wang* and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
 8. Yan Zhang, Wenyi Liu, *Xin Wang* and Heng Gu. A novel wind turbine fault diagnosis method based on compressed sensing and DTL-CNN. Renewable Energy. 2022.
 
+### CountTop Langs.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsinWang94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### GitHub Streak.
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HsinWang94&theme=dark)](https://git.io/streak-stats)
+
+### GitHub stats.
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinWang94&show_icons=true&theme=tokyonight)
 
+### GitHub trophy.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HsinWang94&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Github activity graph.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HsinWang94&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{HsinWang94}/count.svg)
+### Visitor Count.
+![Visitor Count](https://profile-counter.glitch.me/{HsinWang94}/count.svg)
