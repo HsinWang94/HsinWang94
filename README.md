@@ -74,8 +74,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HsinWang94&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Github activity graph.
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HsinWang94&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
