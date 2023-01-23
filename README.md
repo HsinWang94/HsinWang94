@@ -36,8 +36,6 @@
 
 ### Contact Me.
   
-- QQ:497566149
-- Wechat:18260712928
 - ZhiHu:LuciferWang https://www.zhihu.com/people/devilw-94-10-18
 - Bilibili:HsinXWang https://space.bilibili.com/13227261
 - GitHub:VenomWang https://github.com/HsinWang94
@@ -58,22 +56,6 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{HsinWang94}/count.svg)
 
-### CountTop Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsinWang94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HsinWang94&theme=dark)](https://git.io/streak-stats)
-
-### GitHub stats
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinWang94&show_icons=true&theme=tokyonight)
-
-### GitHub trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HsinWang94&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Github activity graph
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HsinWang94&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
