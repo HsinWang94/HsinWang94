@@ -21,13 +21,6 @@
 ### Programming Language
 *MatLab; C/C++; Julia; Python; Shell; SQL;*
  
-### Current Status.
- 
-- 🔭 I’m currently working in China.
-- 🌱 I’m currently learning MATLAB,C/C++,Julia and FPGA.
-- 👯 I’m looking to collaborate on Anywhere.
-- 💬 Ask me about Anything I Know.
-- 📫 How to reach me: Email: wangxin94xz@outlook 
  
 ### Education Background.
 
